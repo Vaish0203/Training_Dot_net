@@ -1,0 +1,7 @@
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\bin\Debug\Vaishnavi_Dere_Assignment_no_2.exe.config
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\bin\Debug\Vaishnavi_Dere_Assignment_no_2.exe
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\bin\Debug\Vaishnavi_Dere_Assignment_no_2.pdb
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\obj\Debug\Vaishnavi_Dere_Assignment_no_2.csproj.AssemblyReference.cache
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\obj\Debug\Vaishnavi_Dere_Assignment_no_2.csproj.CoreCompileInputs.cache
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\obj\Debug\Vaishnavi_Dere_Assignment_no_2.exe
+C:\Users\jites\source\repos\Vaishnavi_Dere_Assignment_no_2\Vaishnavi_Dere_Assignment_no_2\obj\Debug\Vaishnavi_Dere_Assignment_no_2.pdb
