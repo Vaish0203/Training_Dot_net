@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Vaishnavi_Dere_03_Assignement.props" />
+</Project>

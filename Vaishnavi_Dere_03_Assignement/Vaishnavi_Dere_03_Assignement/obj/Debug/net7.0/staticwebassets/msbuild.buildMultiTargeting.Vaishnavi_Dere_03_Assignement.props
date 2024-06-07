@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vaishnavi_Dere_03_Assignement.props" />
+</Project>
