@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaishnavi_Dere_Assignement_no_5", "Vaishnavi_Dere_Assignement_no_5\Vaishnavi_Dere_Assignement_no_5.csproj", "{9612E8B0-29FE-4EBC-94F2-6EAE21883F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9612E8B0-29FE-4EBC-94F2-6EAE21883F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9612E8B0-29FE-4EBC-94F2-6EAE21883F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9612E8B0-29FE-4EBC-94F2-6EAE21883F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9612E8B0-29FE-4EBC-94F2-6EAE21883F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E69EF3-49F7-4DF6-BE23-A99DEBEF2995}
+	EndGlobalSection
+EndGlobal
